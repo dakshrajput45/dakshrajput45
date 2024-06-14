@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Daksh Rajput</h1>
 <h3 align="center">I am a 3rd Year BTech student from CSE branch. I bring a proactive and adaptive approach to my work. My experience as a competitive programmer has sharpened my ability to tackle complex challenges with a positive mindset.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5603AQE_-CIIVZJPQw/profile-displayphoto-shrink_800_800/0/1716268798267?e=1723680000&v=beta&t=nkCswUtS7s60tZz48mC7qxD6Ya1lejfRW6TYJVyZJ5M"/>
@@ -7,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter,MERN**
 
-- 📫 How to reach me **dakshr050@gmail.com**
+- 📫 How to reach me **dakshr264@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
