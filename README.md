@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh Rajput</h1>
-<h3 align="center">I am a 3rd Year BTech student from CSE branch. I bring a proactive and adaptive approach to my work. My experience as a competitive programmer has sharpened my ability to tackle complex challenges with a positive mindset.</h3>
+<h3 align="center">I am a final Year BTech student from CSE branch. I bring a proactive and adaptive approach to my work. My experience as a competitive programmer has sharpened my ability to tackle complex challenges with a positive mindset.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshrajput45&label=Profile%20views&color=0e75b6&style=flat" alt="dakshrajput45" /> </p>
 
